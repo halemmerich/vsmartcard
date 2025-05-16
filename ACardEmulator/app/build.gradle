@@ -8,7 +8,7 @@ android {
         //noinspection ExpiredTargetSdkVersion
         targetSdk 34
         versionCode 8
-        versionName "3.5"
+        versionName "3.6"
         base.archivesName = "ACardEmulator-$versionName"
     }
     buildTypes {
